@@ -1,0 +1,19 @@
+-----Create Database-----
+
+
+-----Create Table-----
+
+
+-----Insert-----
+
+
+-----Update Table-----
+
+
+-----Delete Table-----
+
+
+
+
+
+
